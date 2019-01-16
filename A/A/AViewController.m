@@ -9,7 +9,6 @@
 #import "AViewController.h"
 #import <B_Category/CTMediator+B.h>
 #import <HandyFrame/UIView+LayoutMethods.h>
-
 @interface AViewController ()
 
 @property (nonatomic, strong) UIButton *pushBViewControllerButton;
