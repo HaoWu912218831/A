@@ -34,6 +34,7 @@
 		B088D52B21EF20D30010BFCA /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
 		B088D57521EF25590010BFCA /* Target_A.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Target_A.h; sourceTree = "<group>"; };
 		B088D57621EF25590010BFCA /* Target_A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Target_A.m; sourceTree = "<group>"; };
+		B088D59E21EF6FFD0010BFCA /* Define.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Define.h; sourceTree = "<group>"; };
 		E9B976636F440A895EAAB0CF /* Pods_A.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_A.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB97A838E85F7045D72764F4 /* Pods-A.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-A.debug.xcconfig"; path = "Pods/Target Support Files/Pods-A/Pods-A.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -99,6 +100,7 @@
 				B088D57421EF25420010BFCA /* Targets */,
 				B088D52A21EF20D30010BFCA /* AViewController.m */,
 				B088D52B21EF20D30010BFCA /* AViewController.h */,
+				B088D59E21EF6FFD0010BFCA /* Define.h */,
 			);
 			path = A;
 			sourceTree = "<group>";
