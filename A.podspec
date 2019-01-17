@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "A"
-  s.version      = "23"
+  s.version      = "24"
   s.summary      = "A."
 
   # This description is used to generate tags and improve search results.
@@ -94,7 +94,7 @@ Pod::Spec.new do |s|
   s.source_files  = "A/A/**/*.{h,m,swift}"
   # s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "A/A/**/*.{h,swift}"
+  s.public_header_files = "A/A/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
