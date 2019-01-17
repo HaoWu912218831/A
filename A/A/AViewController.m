@@ -37,6 +37,9 @@
 - (void)didTappedPushBViewControllerButton:(UIButton *)button
 {
     UIViewController *viewController = [[CTMediator sharedInstance] B_viewControllerWithContentText:@"Hello rold"];
+    /*
+     fffff
+     */
     [self.navigationController pushViewController:viewController animated:YES];
 }
 
